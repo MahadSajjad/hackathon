@@ -1,0 +1,11 @@
+main.auth{
+    background-color: $primary;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    .card{
+        width: 500px;
+        margin: 0 auto;
+    }
+
+}
